@@ -144,8 +144,5 @@
 
 ---
 
-## 🔥 Summary
-- Covered **Java Fundamentals**, **OOP Concepts**, **Control Flows**, **Data Structures**, **Exception Handling**, and **UML Diagrams**.
-- Enhanced skills by solving multiple problems on each topic.
 
-📌 *This journal serves as a record of my learning journey in Java!* 🚀
+
