@@ -1,4 +1,4 @@
-# 📘 Learning Journal - Akash Pandey
+# 📘 Learning Journal - Bharat kumar
 
 ## 🗓️ 20th January
 ### 📌 What Was Taught:
